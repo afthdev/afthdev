@@ -12,7 +12,7 @@ Hello There, My name is **Akbar Maulana Alfatih**.
 ### My Achievements on Github
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=chalk&margin-w=8&column=7&username=MauL08" alt="Trophies" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=gruvbox&margin-w=8&column=7&username=MauL08" alt="Trophies" />
   </a>
 </p>
 
