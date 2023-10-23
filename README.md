@@ -19,7 +19,6 @@ Hello There, My name is **Akbar Maulana Alfatih**.
 ### Stats
 <p align="left">
   <a href="https://github.com/MauL08">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauL08&count_private=true&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MauL08&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </p>
