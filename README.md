@@ -15,7 +15,7 @@ Hello There, My name is **Akbar Maulana Alfatih**.
     <img align="center" src="https://github-profile-trophy.vercel.app/?theme=gruvbox&margin-w=8&column=3&username=MauL08" alt="Trophies" />
   </a>
 
- <a href="https://github.com/MauL08">
+  <a href="https://github.com/MauL08" align="center" style="marginLeft: 4;marginTop: 8">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MauL08&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
