@@ -17,6 +17,6 @@ Hello There, My name is **Akbar Maulana Alfatih**.
   </a>
 
   <a href="https://github.com/MauL08" align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MauL08&layout=donut-vertical&langs_count=6&theme=tokyonight"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MauL08&layout=donut-vertical&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
