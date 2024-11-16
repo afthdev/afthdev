@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-![](https://komarev.com/ghpvc/?username=MauL08&style=flat)
+![](https://komarev.com/ghpvc/?username=afthdev&style=flat)
 
 Hello There, My name is **Akbar Maulana Alfatih**.
 
