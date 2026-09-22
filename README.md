@@ -6,7 +6,7 @@ Now I'm a Mobile Developer at **PT Bank Raya Indonesia Tbk**, focused on cross-p
 
 #### 🛠️ Tools I Work With
 ![](https://img.shields.io/badge/-Flutter-white?logo=flutter&style=flat&logoColor=white&color=2A5ADA)
-![](https://img.shields.io/badge/-React%20Native-white?logo=react&style=flat&logoColor=white&color=F9AB00)
+![](https://img.shields.io/badge/-React%20Native-white?logo=react&style=flat&logoColor=black&color=F9AB00)
 ![](https://img.shields.io/badge/-Kotlin-white?logo=kotlin&style=flat&logoColor=white&color=7F52FF)
 ![](https://img.shields.io/badge/-Swift-white?logo=swift&style=flat&logoColor=white&color=F05138)
 
