@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm **Akbar** — Mobile Engineer building apps with 4+ YoE.
+I'm **Akbar** — Mobile Engineer with 4+ YoE.
 
 #### 📖 What I Do
 Now I'm a Mobile Developer at **PT Bank Raya Indonesia Tbk**, focused on cross-platform and native mobile development.
