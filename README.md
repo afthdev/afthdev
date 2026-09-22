@@ -10,6 +10,4 @@ Now I'm a Mobile Developer at **PT Bank Raya Indonesia Tbk**, focused on cross-p
 ![](https://img.shields.io/badge/-Kotlin-white?logo=kotlin&style=flat&logoColor=white&color=7F52FF)
 ![](https://img.shields.io/badge/-Swift-white?logo=swift&style=flat&logoColor=white&color=F05138)
 
-#### 📬 Reach Me
-[![](https://img.shields.io/badge/-white?logo=gmail&style=flat&logoColor=white&color=EA4335)](mailto:akbarma2002@gmail.com)
-[![](https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/akbar-alfatih)
+#### 📬 Reach Me at [![](https://img.shields.io/badge/-white?logo=gmail&style=flat&logoColor=white&color=EA4335)](mailto:akbarma2002@gmail.com) or [![](https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/akbar-alfatih)
